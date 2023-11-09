@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zithen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning RoR
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me 1@zithen.com
 
 <!---
